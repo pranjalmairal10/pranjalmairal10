@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalmairal10&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalmairal10" /> </p>
 
-- 🔭 I’m currently working on **Audio and Visual perception of NAO humanoid robot.**
+- 🔭 I’m currently working on **Audio and Visual perception of NAO humanoid robot at Research Centre Imarat, DRDO**
 
 - 🌱 I’m currently learning **Next.js, Angular.js**
 
