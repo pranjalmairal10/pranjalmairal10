@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **Full Stack Development in Java**
 
-- 💬 Skills **Python, Machine Learning, Deep Learning, HTML, CSS, Javascript, Data Analysis, Generative AI, React.js, Problem Solving**
+- 💬 Skills **Python, Machine Learning, Deep Learning, HTML, CSS, Javascript, Data Analysis, Generative AI, React.js, Problem Solving, AWS Sagemaker, AWS Bedrock, EC2, Lambda, AWS Kendra DB**
 
 - 📫 How to reach me **mairal16pranjal2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U-eNqxsR2FoAIJ46lEoBNRJEc0gmizf9/view](https://drive.google.com/file/d/1U-eNqxsR2FoAIJ46lEoBNRJEc0gmizf9/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1U-eNqxsR2FoAIJ46lEoBNRJEc0gmizf9/view](https://shorturl.at/gU41r)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
