@@ -3,11 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalmairal10&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalmairal10" /> </p>
 
-- 🔭 I’m currently working on **Audio and Visual perception of NAO humanoid robot at Research Centre Imarat, DRDO**
+- 🔭 I’m currently working as a Software Engineer AI at **Tata Consultancy Services**
+-  I previously interned @**Rochester Institute of Technology**, @**Fx Data Labs**, @**Research Centre Imarat, Defence Reasearch & Development Organization**, @**Indian Institute of Technology Delhi AIA FSM Lab**
 
-- 🌱 I’m currently learning **Next.js, Angular.js**
+- 🌱 I’m currently learning **Full Stack Development in Java**
 
-- 💬 Ask me about **Python, Machine Learning, HTML, CSS, Javascript, Data Analysis**
+- 💬 Skills **Python, Machine Learning, Deep Learning, HTML, CSS, Javascript, Data Analysis, Generative AI, React.js, Problem Solving**
 
 - 📫 How to reach me **mairal16pranjal2000@gmail.com**
 
